@@ -1901,3 +1901,15 @@ figure figcaption {
     z-index: 4;
     -webkit-box-shadow: 0 4px 40px -4px rgba(0, 0, 0, 0.4);
     box-shadow: 0 4px 40px -4px rgba(0, 0, 0, 0.4); }
+
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  color: #fff;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+  text-decoration: none;
+}
