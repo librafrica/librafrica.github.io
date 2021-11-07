@@ -592,7 +592,7 @@ body:after {
     width: 100%; }
 .site-blocks-cover, .site-blocks-cover > .container > .row {
     height: calc(70vh);
-    min-height: 400px;
+    min-height: 1200px;
 }
   .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover > .container > .row {
     min-height: 400px;
